@@ -9,6 +9,7 @@ public class Class01 {
         //GitHub değişikleri
         //V5...
         //V6..
+        //V7 remote...
 
 
 
